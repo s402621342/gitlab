@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">Gitlab</string>
+    <string name="username_text">用户名</string>
+    <string name="password_text">密码</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login">登录</string>
+    <string name="studentList">学生列表</string>
+    <string name="homeworkList">作业列表</string>
+    <string name="exerciseList">练习列表</string>
+    <string name="examList">考试列表</string>
+    <string-array name="student_drawer_list">
+        <item>作业列表</item>
+        <item>练习列表</item>
+        <item>考试列表</item>
+    </string-array>
+    <string-array name="teacher_drawer_list">
+        <item>学生列表</item>
+        <item>作业列表</item>
+        <item>练习列表</item>
+        <item>考试列表</item>
+        <item>作业分数</item>
+    </string-array>
+    <string name="student_number">学号:  </string>
+    <string name="student_name">姓名:  </string>
+    <string name="student_id">id:</string>
+    <string name="student_username">用户名:</string>
+    <string name="student_type">姓名:</string>
+    <string name="student_avatar">avatar:</string>
+    <string name="student_gender">性别:</string>
+    <string name="student_email">email:</string>
+    <string name="student_schoolId">schoolId:</string>
+    <string name="student_gitId">gitId:</string>
+    <string name="student_groupId">groupId:</string>
+    <string name="student_gitUsername">gitUsername:</string>
+
+    <string name="student_total_number">总人数: </string>
+    <string name="zero">0</string>
+
+    <string name="exam_id">编号:</string>
+    <string name="exam_title">名称:</string>
+    <string name="exam_description">描述:</string>
+    <string name="exam_start">开始时间:</string>
+    <string name="exam_end">结束时间:</string>
+    <string name="exam_course">课程编号:</string>
+    <string name="exam_status">当前状态:</string>
+    <string name="exam_currentTime">当前时间:</string>
+
+    <string name="question_id">问题编号:</string>
+    <string name="question_title">问题名称:</string>
+    <string name="question_description">问题描述:</string>
+    <string name="question_difficulty">难度:</string>
+    <string name="question_gitUrl">gitUrl:</string>
+    <string name="question_type">类型:</string>
+    <string name="question_creator">创建人:</string>
+    <string name="question_creator_id">id:</string>
+    <string name="question_creator_username">用户名:</string>
+    <string name="question_creator_name">姓名:</string>
+    <string name="question_creator_type">类型:</string>
+    <string name="question_creator_avatar">avatar:</string>
+    <string name="question_creator_gender">性别:</string>
+    <string name="question_creator_email">email:</string>
+    <string name="question_creator_schoolId">schoolId:</string>
+    <string name="question_duration">持续时间:</string>
+    <string name="question_link">链接:</string>
+    <string name="question_knowledgeVos">knowledgeVos:</string>
+    <string name="question_readme">readme:</string>
+
+    <string name="exam_list">考试列表</string>
+    <string name="homework_list">作业列表</string>
+    <string name="exercise_list">练习列表</string>
+
+    <string name="assignment_list">作业列表</string>
+    <string name="student_score">得分:</string>
+    <string name="student_scored">通过:</string>
+
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+
+
+    <string name="analyse">分析</string>
+    <string name="look">查看</string>
+    <string name="no_analyes">暂无分析结果</string>
+
+    <string name="git_url">git_url:</string>
+    <string name="score_result">得分结果:</string>
+    <string name="test_result">测试结果:</string>
+    <string name="compile_succeeded">编译通过:</string>
+    <string name="tested">已测试:</string>
+    <string name="metricData">metricData:</string>
+    <string name="measured">已测量:</string>
+    <string name="total_line_count">总行数:</string>
+    <string name="comment_line_count">总注释数:</string>
+    <string name="field_count">作用域数:</string>
+    <string name="method_count">方法数:</string>
+    <string name="max_coc">max_coc:</string>
+    <string name="name">名称:</string>
+    <string name="passed">通过:</string>
+    <string name="noTestcases">没有测试用例</string>
+    <string name="noUsername">用户名或密码错误</string>
+    <string name="testcase_list">测试用例列表</string>
+
+</resources>

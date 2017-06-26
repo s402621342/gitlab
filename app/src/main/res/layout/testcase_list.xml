@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/testcase_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceListItem"
+        android:text="@string/name"/>
+    <TextView
+        android:id="@+id/testcaseName"
+        android:layout_toRightOf="@id/testcase_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceListItem"
+        />
+    <TextView
+        android:id="@+id/testcase_passed"
+        android:layout_below="@id/testcase_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceListItem"
+        android:text="@string/passed"/>
+    <TextView
+        android:id="@+id/testcasePassed"
+        android:layout_below="@id/testcaseName"
+        android:layout_toRightOf="@id/testcase_passed"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceListItem"
+        />
+</RelativeLayout>
